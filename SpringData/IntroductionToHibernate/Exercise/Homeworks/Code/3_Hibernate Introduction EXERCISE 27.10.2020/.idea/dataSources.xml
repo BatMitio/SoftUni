@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - soft_uni@localhost" uuid="6f81f0c7-2a73-4b11-b6e9-cbbeb8dce545">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/soft_uni</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="soft_uni/Hibernate" uuid="86b53ee6-9bc4-4b47-8e50-b93803ef28d6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/ildo2/Desktop/Hibernate Introduction - 26.10.2020 &amp;&amp; 27.10.2020/EXERCISE/Code/3_Hibernate Introduction EXERCISE 27.10.2020/src/main/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/soft_uni?createDatabaseIfNotExist=true&amp;useSSL=false</jdbc-url>
+    </data-source>
+  </component>
+</project>

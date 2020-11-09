@@ -1,0 +1,1 @@
+In each exercise you need to edit only the persistence.xml with your credentials, otherwise all of the exercises are separate and the App class and DB name are set. 
