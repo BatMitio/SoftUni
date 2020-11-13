@@ -9,5 +9,5 @@ public interface AccountService {
     Account createUserAccount(User user, Account account);
     void depositMoney(BigDecimal amount, Long accountId);
     void withdrawMoney(BigDecimal amount, Long accountId);
-    void transferMoney(BigDecimal amount, Long fromId, Long toId);
+    void transferMoney(BigDecimal amount, Long fromAccountId, Long toAccountId);
 }

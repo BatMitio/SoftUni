@@ -24,6 +24,6 @@ public class User {
     @NonNull
     private int age;
 
-    @OneToMany(mappedBy = "user")
+    @OneToMany(mappedBy = "user", targetEntity = Account.class)
     private Set<Account> accounts = new HashSet<>();
 }
